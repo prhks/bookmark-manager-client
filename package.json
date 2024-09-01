@@ -44,5 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "https://shielded-scrubland-09218-3d145831bca7.herokuapp.com/"
 }
