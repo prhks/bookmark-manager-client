@@ -45,5 +45,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://shielded-scrubland-09218-3d145831bca7.herokuapp.com/"
+  "proxy": "https://shielded-scrubland-09218-3d145831bca7.herokuapp.com/",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
